@@ -1,0 +1,16 @@
+{
+  "name": "travel_wise",
+  "version": "1.0.1",
+  "description": "travel app back end",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mongose": "^0.0.2-security"
+  }
+}
