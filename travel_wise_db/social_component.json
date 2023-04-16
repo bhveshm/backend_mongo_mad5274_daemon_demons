@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "643b5afd41e99538a124981e"
+  },
+  "travel_blogs": [
+    {
+      "id": 1,
+      "user_id": 101,
+      "title": "My trip to Paris",
+      "description": "A romantic journey to the city of love",
+      "content": "I had the most amazing time in Paris! The Eiffel Tower was even more beautiful in person and the food was incredible. My favorite moment was walking through the streets at night and seeing the city lit up. I can't wait to go back and explore more!",
+      "image_url": "https://images.unsplash.com/photo-1559163146-758bc1a2389f",
+      "likes": 25,
+      "comments": [
+        {
+          "user_id": 102,
+          "comment": "Sounds amazing! I've always wanted to visit Paris"
+        },
+        {
+          "user_id": 103,
+          "comment": "I love Paris! You captured it perfectly in your post"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "user_id": 102,
+      "title": "Island Hopping in Bali",
+      "description": "A journey through the Indonesian archipelago",
+      "content": "I spent two weeks island hopping in Bali and it was the most beautiful trip I've ever been on. The beaches were pristine and the people were so friendly. I highly recommend checking out the waterfalls and rice terraces too. It's a magical place that I'll never forget!",
+      "image_url": "https://images.unsplash.com/photo-1534447677768-be436bb09401",
+      "likes": 50,
+      "comments": [
+        {
+          "user_id": 101,
+          "comment": "Bali looks incredible! I'm adding it to my bucket list"
+        },
+        {
+          "user_id": 103,
+          "comment": "I've been to Bali too and it was amazing! I'm glad you enjoyed it"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "user_id": 103,
+      "title": "Adventures in New York",
+      "description": "Exploring the city that never sleeps",
+      "content": "New York was everything I expected and more. The museums, parks, and skyscrapers were all incredible. I especially loved seeing the city from the top of the Empire State Building. And of course, the pizza was amazing! Can't wait to go back someday",
+      "image_url": "https://images.unsplash.com/photo-1559028013-9fd89b515e7d",
+      "likes": 40,
+      "comments": [
+        {
+          "user_id": 102,
+          "comment": "New York is one of my favorite cities! I'm glad you enjoyed it"
+        },
+        {
+          "user_id": 101,
+          "comment": "I've never been to New York but your post makes me want to visit!"
+        }
+      ]
+    }
+  ]
+}]

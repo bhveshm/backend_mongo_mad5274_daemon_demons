@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "643b5a9641e99538a124981b"
+  },
+  "destinations": [
+    {
+      "id": 1,
+      "name": "Paris",
+      "description": "The city of love and romance",
+      "image_url": "https://images.unsplash.com/photo-1559163146-758bc1a2389f",
+      "reward_points": 500
+    },
+    {
+      "id": 2,
+      "name": "Bali",
+      "description": "The island of the gods",
+      "image_url": "https://images.unsplash.com/photo-1534447677768-be436bb09401",
+      "reward_points": 750
+    },
+    {
+      "id": 3,
+      "name": "New York",
+      "description": "The city that never sleeps",
+      "image_url": "https://images.unsplash.com/photo-1559028013-9fd89b515e7d",
+      "reward_points": 1000
+    },
+    {
+      "id": 4,
+      "name": "Tokyo",
+      "description": "The city of neon lights",
+      "image_url": "https://images.unsplash.com/photo-1549880338-65ddcdfd017b",
+      "reward_points": 800
+    },
+    {
+      "id": 5,
+      "name": "Sydney",
+      "description": "The land down under",
+      "image_url": "https://images.unsplash.com/photo-1547851894-9e0965b5b5d5",
+      "reward_points": 600
+    }
+  ]
+}]

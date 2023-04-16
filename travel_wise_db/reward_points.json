@@ -1,0 +1,141 @@
+[{
+  "_id": {
+    "$oid": "643b59f041e99538a1249805"
+  },
+  "email": "john@example.com",
+  "token": "abc123",
+  "balance": 100
+},{
+  "_id": {
+    "$oid": "643b59f041e99538a1249806"
+  },
+  "email": "jane@example.com",
+  "token": "def456",
+  "balance": 50
+},{
+  "_id": {
+    "$oid": "643b59f041e99538a1249807"
+  },
+  "email": "bob@example.com",
+  "token": "ghi789",
+  "balance": 200
+},{
+  "_id": {
+    "$oid": "643b59f041e99538a1249808"
+  },
+  "email": "alice@example.com",
+  "token": "jkl012",
+  "balance": 75
+},{
+  "_id": {
+    "$oid": "643b59f041e99538a1249809"
+  },
+  "email": "dave@example.com",
+  "token": "mno345",
+  "balance": 150
+},{
+  "_id": {
+    "$oid": "643b59f041e99538a124980a"
+  },
+  "email": "sara@example.com",
+  "token": "pqr678",
+  "balance": 300
+},{
+  "_id": {
+    "$oid": "643b59f041e99538a124980b"
+  },
+  "email": "mike@example.com",
+  "token": "stu901",
+  "balance": 25
+},{
+  "_id": {
+    "$oid": "643b59f041e99538a124980c"
+  },
+  "email": "jessica@example.com",
+  "token": "vwx234",
+  "balance": 1000
+},{
+  "_id": {
+    "$oid": "643b59f041e99538a124980d"
+  },
+  "email": "matt@example.com",
+  "token": "yz01ab",
+  "balance": 50
+},{
+  "_id": {
+    "$oid": "643b59f041e99538a124980e"
+  },
+  "email": "susan@example.com",
+  "token": "cd2345",
+  "balance": 200
+},{
+  "_id": {
+    "$oid": "643b59f041e99538a124980f"
+  },
+  "email": "daniel@example.com",
+  "token": "ef6789",
+  "balance": 75
+},{
+  "_id": {
+    "$oid": "643b59f041e99538a1249810"
+  },
+  "email": "amy@example.com",
+  "token": "gh0123",
+  "balance": 150
+},{
+  "_id": {
+    "$oid": "643b59f041e99538a1249811"
+  },
+  "email": "chris@example.com",
+  "token": "ij4567",
+  "balance": 300
+},{
+  "_id": {
+    "$oid": "643b59f041e99538a1249812"
+  },
+  "email": "jennifer@example.com",
+  "token": "kl8901",
+  "balance": 25
+},{
+  "_id": {
+    "$oid": "643b59f041e99538a1249813"
+  },
+  "email": "mark@example.com",
+  "token": "mn2345",
+  "balance": 1000
+},{
+  "_id": {
+    "$oid": "643b59f041e99538a1249814"
+  },
+  "email": "emily@example.com",
+  "token": "op6789",
+  "balance": 50
+},{
+  "_id": {
+    "$oid": "643b59f041e99538a1249815"
+  },
+  "email": "justin@example.com",
+  "token": "qr0123",
+  "balance": 200
+},{
+  "_id": {
+    "$oid": "643b59f041e99538a1249816"
+  },
+  "email": "karen@example.com",
+  "token": "st4567",
+  "balance": 75
+},{
+  "_id": {
+    "$oid": "643b59f041e99538a1249817"
+  },
+  "email": "tyler@example.com",
+  "token": "uv8901",
+  "balance": 150
+},{
+  "_id": {
+    "$oid": "643b59f041e99538a1249818"
+  },
+  "email": "jason@example.com",
+  "token": "wx2345",
+  "balance": 300
+}]
